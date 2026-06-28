@@ -1,1 +1,5 @@
-# CS320-Projects
+I can ensure my code, program, or software is functional and secure by using testing during development. I use unit tests to check each part of the program. These tests help me find errors early. I also run the program with different inputs to see if it gives correct results. I check edge cases to make sure the program handles all situations. For security, I avoid invalid input and I do not store sensitive data in the code.
+
+I interpret user needs by carefully reading the requirements. I break the requirements into small parts. Each part becomes a feature in the program. I think about how the user will use the system. This helps me design functions that match what the user expects. I also test the program to confirm it meets all requirements.
+
+I approach software design by first understanding the problem. Then I divide the problem into smaller components. I use classes and methods to organize the work. Each class has a clear purpose. This makes the code easier to read and maintain. I also plan before coding. This helps reduce mistakes and makes the development process more organized.
